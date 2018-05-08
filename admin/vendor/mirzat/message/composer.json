@@ -1,0 +1,19 @@
+{
+    "name": "mirzat/message",
+    "description": "JSON bridge for laravel and Ajax request",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mirzat",
+            "email": "mirzatsoft@163.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Mirzat\\Message\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}

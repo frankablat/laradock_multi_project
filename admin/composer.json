@@ -1,0 +1,17 @@
+{
+    "name": "frank/admin",
+    "authors": [
+        {
+            "name": "frank.ablat.cn",
+            "email": "frank.ablat@d8aspring.com"
+        }
+    ],
+    "require": {
+        "mirzat/message": "^1.01"
+    },
+    "autoloaed":{
+        "PSR-4":{
+            "APP\\":"src/"
+        }
+    }
+}
