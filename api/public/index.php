@@ -1,6 +1,6 @@
 <?php 
 
  include '../vendor/autoload.php';
- using \Mirzat\Message;
+ use \Mirzat\Message\Message;
 
  echo Message::makeSuccess(["name"=>"api"]);
