@@ -1,1 +1,6 @@
 .DS_Store
+admin/env_admin/.env
+admin/env_admin/logs/error.log
+
+api/env_api/.env
+api/env_api/logs/error.log
