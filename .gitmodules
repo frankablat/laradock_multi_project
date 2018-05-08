@@ -4,3 +4,6 @@
 [submodule "admin/laradock"]
 	path = admin/laradock
 	url = https://github.com/laradock/laradock.git
+[submodule "api/env_api"]
+	path = api/env_api
+	url = https://github.com/laradock/laradock.git

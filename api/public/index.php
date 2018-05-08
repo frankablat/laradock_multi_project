@@ -3,4 +3,4 @@
  include '../vendor/autoload.php';
  using \Mirzat\Message;
 
- echo Message::makeSuccess(["name"=>"admin"]);
+ echo Message::makeSuccess(["name"=>"api"]);
