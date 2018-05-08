@@ -4,3 +4,4 @@ admin/env_admin/logs/error.log
 
 api/env_api/.env
 api/env_api/logs/error.log
+.idea

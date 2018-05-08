@@ -1,6 +1,6 @@
 <?php 
 
- include '../vendor/autoload.php';
- using \Mirzat\Message;
+require_once '../vendor/autoload.php';
+use Mirzat\Message;
 
- echo Message::makeSuccess(["name"=>"admin"]);
+Message::makeSuccess(["name"=>"admin"]);
